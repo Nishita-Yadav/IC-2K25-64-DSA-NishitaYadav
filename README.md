@@ -12,7 +12,7 @@ This repository contains practical programs and implementations completed as par
 | **Course** | Integrated MCA |
 | **Semester** | 3rd Semester |
 | **Subject** | Data Structures and Algorithms |
-| **Academic Year** | 2026–27 |
+| **Academic Year** | 2026 |
 | **Repository** | IC-2K25-64-DSA-NishitaYadav |
 
 ## 🎯 About This Repository
